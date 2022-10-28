@@ -1,0 +1,102 @@
+{
+  "quiz": {
+    "quizId": "x42kew",
+    "title": "What cheese are you?",
+    "subtitle": "This quiz isn't cheesy or anything...",
+    "content": [
+      {
+        "id": 0,
+        "text": "Pick a vacation destination",
+        "questions": [
+          {
+            "text": "New York",
+            "image": "https://images.unsplash.com/photo-1614089708001-2d34fcf161d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGJlaWppbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "alt": "",
+            "credit": "Oliver Midle"
+          },
+          {
+            "text": "Bei Jing",
+            "image": "https://images.unsplash.com/photo-1605198628527-8fce3cf3cb99?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlaWppbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "alt": "",
+            "credit": "Amber Hertd"
+          },
+          {
+            "text": "Shang Hai",
+            "image": "https://images.unsplash.com/photo-1584872589930-e99fe5bf4408?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmVpamluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "alt": "",
+            "credit": "Oliver Midle"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "text": "Pick some food",
+        "questions": [
+          {
+            "text": "Won Ton",
+            "image": "https://images.unsplash.com/photo-1464454709131-ffd692591ee5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8d29uJTIwdG9uJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "alt": "",
+            "credit": "Oliver Midle"
+          },
+          {
+            "text": "Bow of Won ton",
+            "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "alt": "",
+            "credit": "Tom Deil"
+          },
+          {
+            "text": "Salad Tofu",
+            "image": "https://images.unsplash.com/photo-1432139555190-58524dae6a55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjN8fHdvbiUyMHRvbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "alt": "",
+            "credit": "Tom Deil"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Pick a home",
+        "questions": [
+          {
+            "text": "Traditional",
+            "image": "https://images.unsplash.com/photo-1501183638710-841dd1904471?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG9tZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "alt": "",
+            "credit": "Oliver Midle"
+          },
+
+          {
+            "text": "Model",
+            "image": "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8aG9tZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "alt": "",
+            "credit": "Tom Deil"
+          },
+          {
+            "text": "Normal",
+            "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGhvbWV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "alt": "",
+            "credit": "Tom Deil"
+          }
+        ]
+      }
+    ],
+    "answers": [
+      {
+        "combination": ["New York", "Salad Tofu", "Traditional"],
+        "text": "Blue Cheese",
+        "image": "https://images.unsplash.com/photo-1562663474-6cbb3eaa4d14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGhvbWV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "alt": "Blue Cheese"
+      },
+      {
+        "combination": ["New York", "Bow of Won ton", "Normal"],
+        "text": "Blue Cheese",
+        "image": "https://images.unsplash.com/photo-1562663474-6cbb3eaa4d14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGhvbWV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "alt": "Blue Cheese"
+      },
+      {
+        "combination": ["Bei Jing", "Won ton", "Model"],
+        "text": "Kashkaval",
+        "image": "https://images.unsplash.com/photo-1562663474-6cbb3eaa4d14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGhvbWV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "alt": "Kashkaval"
+      }
+    ]
+  }
+}
